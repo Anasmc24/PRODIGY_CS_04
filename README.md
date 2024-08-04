@@ -13,7 +13,7 @@ Requirements
 
 Python 3.x: Ensure you have Python 3 installed. pynput Library: Install the pynput library using pip.
 
-Installation Clone the repository: git clone 
+Installation Clone the repository: git clone https://github.com/Anasmc24/PRODIGY_CS_04/tree/main
 Install pynput: pip install pynput
 
 Download the Script: Save the script to a file named keylogger.py or any preferred name.
